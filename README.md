@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### 증권 자동화 프로그래밍 버젼 관리 GIT 👋
+- 키움
+- 이베스트
+- 바이낸스 선물
 <!--
 **fjybjinsu/fjybjinsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
